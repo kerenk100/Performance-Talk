@@ -1,0 +1,108 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "Front End Performance",
+      "date": "2025-01-24T18:00:00Z",
+      "location": "Melio Offices, TLV",
+      "speakers": [
+        {
+          "name": "Opher Vishnia",
+          "talk": "Stop Shooting Yourself in The Foot: Quick Wins to Improve Your React App’s Performance",  
+        },
+        {
+          "name": "Naveh Sadeh",
+          "talk": "Writing Efficient and High-Performance JS Code"
+        },
+        {
+          "name": "Nik Frank",
+          "talk": "The Proxy Zipper - Esoteric Patterns for Practical Performance"
+        },
+        {
+          "name": "Yonatan Kra",
+          "talk": "Runtime Performance Optimization in Production"
+        }
+      ],
+      "attendees": [
+        {
+          "name": "Alon Valadji",
+          "email": "",
+          "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/467902098_10161790863177460_2133683025338578331_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=amvYt2HiOI4Q7kNvgH73_ax&_nc_oc=Adj8mPlCar7-4CaKN7A_OhATYcRGoZQ8hqPakXWqTuTBDl26tPFGxRBz7WfCtVRaMrI&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=A_izcSpIp-Z0YrAWoybWVQ5&oh=00_AYDPlhCfvTzOlxV4IgYrXUGSHX0mvQkOQ6W7J4onVS7AbA&oe=6793563F",
+          "attended": true
+        },
+        {
+          "name": "Yoav Ganbar",
+          "email": "",
+          "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/461594999_8308754815909032_533506269325164548_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=5Bx-RTzGzmgQ7kNvgFVB51I&_nc_oc=AdjKBz1m41dpSQPqxzACeKELjQTK4tr7-oSyjI6znpzbwPKsb9yUk14UuVefPQWPG_Y&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=ANLWujpYIGum7J6rJOAqhBW&oh=00_AYDGqLOcAY0Y3w2AAFUSHi7hDijTPfjRIwz1gcGQGmoEuQ&oe=6794C2ED",
+          "attended": true
+        }, 
+        {
+          "name": "Yanai Edri",
+          "email": "",
+          "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/358143186_10227202000987506_1167050074536043141_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=F1szkV2XCMUQ7kNvgHGXhJu&_nc_oc=Adiy79-DfYSqquv-dkfuhDJeg6c3jNPk54JxWGtX9G4Mq4NQvdsesyF_lWKoi0A3mmc&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=ACMCrqspvVd9QaltpCEKqsH&oh=00_AYCEclzt-ug2xxBzpR6bwEy6uQ0U6ml8hNRGYnQFMBXcGw&oe=67949256",
+          "attended": false
+        }, 
+        {
+          "name": "Tamar Twena",
+          "email": "",
+          "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/312972257_10159925635065792_5483046361146049879_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0VAB6qhpYHcQ7kNvgGT_2NQ&_nc_oc=AdiSE0Rxr0VT1nVlJBhNjH36rR7fIbdWzaqPwD5aNlS0Wd61oy15YlHI1ueeCcyBDT8&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=AT6KmFzueyqt_BBt-rYoAWm&oh=00_AYDOlYfVRA0FunB-mz5NxtK6fvzDFLmOnY_1KbYWLH9_rw&oe=6794BAD4",
+          attended": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Advanced JavaScript Patterns",
+      "date": "2025-03-15T14:00:00Z",
+      "location": "DevSpace, 456 Code Ave, Los Angeles, CA",
+      "speakers": [
+        {
+          "name": "Eve White",
+          "bio": "JavaScript Expert, Author of 'Modern JS Patterns'",
+          "img": "https://example.com/images/eve.jpg"
+        }
+      ],
+      "attendees": [
+        {
+          "name": "David Green",
+          "email": "david.green@email.com",
+          "img": "https://example.com/images/david.jpg",
+          "attended": true
+        },
+        {
+          "name": "Grace Lee",
+          "email": "grace.lee@email.com",
+          "img": "https://example.com/images/grace.jpg",
+          "attended": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Node.js and Backend Development",
+      "date": "2025-04-20T09:30:00Z",
+      "location": "Backend Office, 789 Server Blvd, New York, NY",
+      "speakers": [
+        {
+          "name": "Mike Johnson",
+          "bio": "Node.js Core Contributor, Backend Architect",
+          "img": "https://example.com/images/mike.jpg"
+        }
+      ],
+      "attendees": [
+        {
+          "name": "Sophia Clark",
+          "email": "sophia.clark@email.com",
+          "img": "https://example.com/images/sophia.jpg",
+          "attended": true
+        },
+        {
+          "name": "Liam Williams",
+          "email": "liam.williams@email.com",
+          "img": "https://example.com/images/liam.jpg",
+          "attended": false
+        }
+      ]
+    }
+  ]
+}
