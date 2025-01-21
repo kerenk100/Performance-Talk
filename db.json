@@ -138,14 +138,14 @@
         {
           "name": "Yanai Edri",
           "email": "",
-          "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/358143186_10227202000987506_1167050074536043141_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=F1szkV2XCMUQ7kNvgHGXhJu&_nc_oc=Adiy79-DfYSqquv-dkfuhDJeg6c3jNPk54JxWGtX9G4Mq4NQvdsesyF_lWKoi0A3mmc&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=ACMCrqspvVd9QaltpCEKqsH&oh=00_AYCEclzt-ug2xxBzpR6bwEy6uQ0U6ml8hNRGYnQFMBXcGw&oe=67949256",
-          "attended": false
+          "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/289063233_10224864426869614_3003796362220378557_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=_tP8TXogwPIQ7kNvgGJqh9l&_nc_oc=AdhK7PxvQqVR7oHrwh5YCv763wJiawhWjbw896ZjSBafcSYS3r2CZF7nJVSh2th8w84&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=Azpd8im1Jn5dr6_YZhUXTLj&oh=00_AYC6CkNHo4dpZeOP6noJyAaA1KqLP_oGa5c2uVJ2Ah1Y2Q&oe=6794A7F1", 
+          "attended": true
         }, 
         {
           "name": "Tamar Twena",
           "email": "",
           "img": "https://scontent.ftlv4-1.fna.fbcdn.net/v/t39.30808-6/312972257_10159925635065792_5483046361146049879_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=0VAB6qhpYHcQ7kNvgGT_2NQ&_nc_oc=AdiSE0Rxr0VT1nVlJBhNjH36rR7fIbdWzaqPwD5aNlS0Wd61oy15YlHI1ueeCcyBDT8&_nc_zt=23&_nc_ht=scontent.ftlv4-1.fna&_nc_gid=AT6KmFzueyqt_BBt-rYoAWm&oh=00_AYDOlYfVRA0FunB-mz5NxtK6fvzDFLmOnY_1KbYWLH9_rw&oe=6794BAD4",
-          "attended": true
+          "attended": false
         }
       ]
     }
