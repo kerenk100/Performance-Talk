@@ -112,20 +112,8 @@
       "date": "2025-04-20T09:30:00Z",
       "speakers": [
         {
-          "name": "Opher Vishnia",
-          "talk": "Stop Shooting Yourself in The Foot: Quick Wins to Improve Your React App’s Performance"
-        },
-        {
-          "name": "Naveh Sadeh",
-          "talk": "Writing Efficient and High-Performance JS Code"
-        },
-        {
-          "name": "Nik Frank",
-          "talk": "The Proxy Zipper - Esoteric Patterns for Practical Performance"
-        },
-        {
-          "name": "Yonatan Kra",
-          "talk": "Runtime Performance Optimization in Production"
+          "name": "Avi Nehama & Kfir Erez",
+          "talk": "Deploying nodejs applications on AWS Lambda: the basics and advanced issues"
         }
       ],
       "attendees": [
